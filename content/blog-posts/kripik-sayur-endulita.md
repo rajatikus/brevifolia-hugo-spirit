@@ -7,7 +7,7 @@ title = "Kripik Sayur Endulita"
 type = "blog"
 
 +++
-Bahan-bahan yang dibutuhkan:
+**Bahan-bahan yang dibutuhkan:**
 
 * **50 lembar** daun bayam tanpa batang (bisa diganti sayur lain sesuai selera)
 * **250 gr** tepung beras
