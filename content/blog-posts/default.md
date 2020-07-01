@@ -1,17 +1,32 @@
 +++
-author = ""
+author = "AMAAN"
 date = 2020-07-01T17:00:00Z
-draft = true
-hero = ""
+hero = "/images/amaan-kreatif.png"
 quadrant = []
 title = "Kenapa mencatat hilangkan penat?"
 type = "blog"
 
 +++
-Kadang kita bingung untuk menghitung berapa modal yang kita keluarkan untuk berjualan
+* Kadang kita bingung untuk menghitung berapa modal yang kita keluarkan untuk berjualan
+* Ujung-ujung nya pusing karena kita bingung berapa pendapatan usaha kita, apalagi kalau kita tidak pernah pisahkan uang usaha dan uang urusan rumah tangga.
+* Dengan mencatat membuat kita waspada dari mana dan kemana uang kita.
+* Kakak Idamaan penasaran banget nih pengen lihat langsung Catatan Usaha Sahabat yang sudah dibuat. Catatan Usaha Sahabat Amaan terbaik, akan dapat hadiah diundi setiap 2 minggu.
 
-Ujung-ujung nya pusing karena kita bingung berapa pendapatan usaha kita, apalagi kalau kita tidak pernah pisahkan uang usaha dan uang urusan rumah tangga.
+![](/images/frame-2.png)
 
-Dengan mencatat membuat kita waspada dari mana dan kemana uang kita.
+* Tuliskan setiap kali ada pengeluaran atau pemasukan di tabel tersebut.
+* Totalkan pemasukan dan pengeluaran setiap hari.
 
-Kakak Idamaan penasaran banget nih pengen lihat langsung Catatan Usaha Sahabat yang sudah dibuat. Catatan Usaha Sahabat Amaan terbaik, akan dapat hadiah diundi setiap 2 minggu.
+**Yuk Bedakan!**  
+Cari tau apa saja yang masuk ke dalam Pengeluaran dan Pemasukan di bawah ini.
+
+**Jenis Pemasukan**
+
+* Setiap kali ada yang beli barang kita (token listrik, pulsa, barang di toko kelontong).
+* Setiap kali ada pelanggan yang menerima jasa kita.
+
+**Jenis Pengeluaran**
+
+* Setiap kali ada pembelian untuk bahan baku, stok dagangan, perlengkapan usaha.
+* Setiap kali ada pengeluaran usaha terkait transportasi, biaya listrik, sewa tempat.
+* Catat juga pengeluaran Rumah Tanggal/Keluarga seperti: makan sehari-hari, jajan anak, belanja harian atau bulanan, biaya sekolah, dll.
