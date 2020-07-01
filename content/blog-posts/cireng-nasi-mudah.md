@@ -1,12 +1,16 @@
 +++
 author = "AMAAN"
-date = ""
+date = 2020-06-30T17:00:00Z
 hero = "/images/rengcinasi.jpg"
 quadrant = []
 title = "Cireng Nasi Mudah"
 type = "blog"
 
 +++
+> #### _“Sebagai Ibu rumah tangga, nasi sisa kadang bikin dilema. Dibuang sayang, disimpan sudah ngga bagus._
+>
+> #### _Nah, yuk coba kita mengolah nasi sisa menjadi makanan yang enak dan bisa menjadi ide usaha rumahan anda juga."_
+
 **Bahan-bahan yang dibutuhkan:** 
 
 * 1 piring nasi putih (nasi sisa juga bisa digunakan)
@@ -29,3 +33,5 @@ type = "blog"
 4. Panaskan minyak goreng, kemudian goreng cireng hingga permukaannya renyah.
 5. Untuk cocolan, Sahabat dapat membuat bumbu rujak sederhana. Haluskan asam, gula merah, cabai, dan garam. Tambahkan air matang ke dalam bumbu halus. Rebus hingga menyusut dan kental.
 6. Sajikan cireng nasi dengan bumbu rujak yang sudah dibuat.
+
+> ### Selamat mencoba ya Sahabat AMAAN
