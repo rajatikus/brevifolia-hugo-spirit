@@ -12,6 +12,9 @@ fields:
   label: quadrant
   hidden: false
   description: Ilmu Agama, Kesehatan, Usaha, Keluarga
+  showOnly:
+    field: author
+    value: AMAAN
 - name: author
   type: select
   default: []
