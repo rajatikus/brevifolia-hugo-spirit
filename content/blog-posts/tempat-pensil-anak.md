@@ -1,8 +1,7 @@
 +++
 author = "AMAAN"
 date = ""
-draft = true
-hero = ""
+hero = "/images/hero.jpg"
 quadrant = []
 title = "Tempat Pensil Anak"
 type = "blog"
