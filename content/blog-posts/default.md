@@ -4,7 +4,7 @@ date = ""
 draft = true
 hero = ""
 quadrant = []
-title = "default"
+title = "Kenapa mencatat hilangkan penat?"
 type = "blog"
 
 +++
