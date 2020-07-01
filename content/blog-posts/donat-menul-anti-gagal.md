@@ -7,7 +7,7 @@ title = "Donat Menul Anti Gagal"
 type = "blog"
 
 +++
-Bahan-bahan yang dibutuhkan:
+**Bahan-bahan yang dibutuhkan:**
 
 * **250** tepung ketan
 * **5 sdm** tepung terigu
