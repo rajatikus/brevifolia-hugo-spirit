@@ -7,7 +7,7 @@ title = "Cireng Nasi Mudah"
 type = "blog"
 
 +++
-Bahan-bahan yang dibutuhkan: 
+**Bahan-bahan yang dibutuhkan:** 
 
 * 1 piring nasi putih (nasi sisa juga bisa digunakan)
 * 10 sendok makan tepung tapioka 
