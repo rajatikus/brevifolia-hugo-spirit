@@ -7,7 +7,7 @@ title = "Cilok Krispi \"EMAK\""
 type = "blog"
 
 +++
-Bahan-bahan yang dibutuhkan:
+**Bahan-bahan yang dibutuhkan:**
 
 * **1/4 kg** tepung tapioka.
 * **1/4 kg** tepung terigu.
