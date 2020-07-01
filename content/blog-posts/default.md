@@ -1,6 +1,6 @@
 +++
 author = ""
-date = ""
+date = 2020-07-01T17:00:00Z
 draft = true
 hero = ""
 quadrant = []
