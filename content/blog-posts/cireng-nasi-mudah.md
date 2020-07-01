@@ -7,19 +7,19 @@ title = "Cireng Nasi Mudah"
 type = "blog"
 
 +++
-Bahan-bahan yang dibutuhkan:
+Bahan-bahan yang dibutuhkan: 
 
-* **1 piring** nasi putih (nasi sisa juga bisa digunakan)
-* **10 sendok makan** tepung tapioka
-* **1 gelas** belimbing air
-* **3 batang** daun bawang, iris halus
-* **3 siung** bawang putih, haluskan
-* Merica bubuk **secukupnya**
-* Garam **secukupnya**
-* Minyak goreng **secukupnya**
-* **Asam secukupnya**
-* **Gula Merah secukupnya**
-* Cabai **sesuai selera**
+* 1 piring nasi putih (nasi sisa juga bisa digunakan)
+* 10 sendok makan tepung tapioka 
+* 1 gelas belimbing air 
+* 3 batang daun bawang, iris halus 
+* 3 siung bawang putih, haluskan 
+* Merica bubuk secukupnya 
+* Garam secukupnya 
+* Minyak goreng secukupnya 
+* Asam secukupnya 
+* Gula Merah secukupnya 
+* Cabai sesuai selera
 
 **Cara Membuat Cireng Nasi**
 
