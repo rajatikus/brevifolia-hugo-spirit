@@ -6,6 +6,12 @@ fields:
   name: title
   label: Title
   default: default
+- name: quadrant
+  type: tag_list
+  default: []
+  label: quadrant
+  hidden: false
+  description: Ilmu Agama, Kesehatan, Usaha, Keluarga
 - name: author
   type: select
   default: []
