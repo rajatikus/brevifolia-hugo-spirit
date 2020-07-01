@@ -1,7 +1,6 @@
 +++
 author = "AMAAN"
 date = 2020-06-30T20:00:00Z
-draft = true
 hero = "/images/cilok-goreng-crispy-foto-resep-utama.jpg"
 quadrant = []
 title = "CILOK KRISPI  “EMAK”"
