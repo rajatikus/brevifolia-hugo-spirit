@@ -3,7 +3,7 @@ author = "AMAAN"
 date = 2020-06-30T20:00:00Z
 hero = "/images/cilok-goreng-crispy-foto-resep-utama.jpg"
 quadrant = []
-title = "CILOK KRISPI  “EMAK”"
+title = "Cilok Krispi \"EMAK\""
 type = "blog"
 
 +++
