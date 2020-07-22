@@ -1,6 +1,9 @@
 <a href="{{ .Permalink }}" class="catalogue-item">
         {{ partial "single/list-hero.html" . }}
     <div class="catalogue-info">  
+            {{ if .Params }}
+				<p>{{ delimit .Params.tags ", " }}</p>
+			{{ end }}
         <h2 class="catalogue-title">{{ .Title }}</h2>
         <h3 class="catalogue-time">
             {{ i18n "publishdate" . }}
