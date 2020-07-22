@@ -2,6 +2,7 @@
 
 <main >
 		<div class="catalogue">
+			<p>{{ delimit .Params.tags ", " }}</p>
 				{{ range .Pages }}
 						{{ .Render "summary" }}
 				{{ end }}
