@@ -1,7 +1,6 @@
 +++
 author = "AMAAN"
 date = ""
-draft = true
 hero = "/images/lelenug.jpg"
 quadrant = []
 tags = []
