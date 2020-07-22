@@ -1,7 +1,6 @@
 +++
 author = "AMAAN"
 date = ""
-draft = true
 hero = "/images/max-di-capua-AhHICglxxx8-unsplash.jpg"
 tags = []
 title = "Test Artikel 001"
