@@ -2,7 +2,7 @@
 
 <main >
 		<div class="catalogue">
-			{{ if .Prev }}
+			{{ if .Params }}
 				<p>{{ delimit .Params.tags ", " }}</p>
 			{{ end }}
 				{{ range .Pages }}
