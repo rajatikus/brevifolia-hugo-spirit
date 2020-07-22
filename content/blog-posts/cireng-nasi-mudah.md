@@ -3,7 +3,7 @@ author = "AMAAN"
 date = 2020-06-30T17:00:00Z
 hero = "/images/rengcinasi.jpg"
 quadrant = []
-tags = ["Ilmu Usaha"]
+tags = ["Ilmu Usaha", "Ilmu Keluarga"]
 title = "Cireng Nasi Mudah"
 type = "blog"
 
