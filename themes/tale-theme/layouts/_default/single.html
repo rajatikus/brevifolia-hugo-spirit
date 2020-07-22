@@ -4,6 +4,7 @@
 	<div class="post">
 		{{ partial "single/hero.html" . }}
 		<div class="post__all-info">
+			{{ if isset .Params "tags" }}<p>{{ delimit .Params.tags ", " }}</p>{{ end }}
 			{{ partial "single/title.html" . }}
 			{{ partial "single/post-info.html" . }}
 		</div>
