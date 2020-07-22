@@ -1,7 +1,6 @@
 +++
 author = "AMAAN"
 date = ""
-draft = true
 hero = "/images/amaan-resep-3.jpg"
 quadrant = []
 tags = ["Ilmu Usaha"]
