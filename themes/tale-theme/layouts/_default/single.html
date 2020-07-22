@@ -8,14 +8,9 @@
 			{{ partial "single/title.html" . }}
 			{{ partial "single/post-info.html" . }}
 		</div>
+		{{- if .Params.Author }}<h3><span>{{ i18n "Ditulis oleh" }}</span>{{ .Params.Author }}</h3>{{- end }}
 		<div class="post__body">{{ .Content }}</div>
 		<div class="post__footer">
-				{{- if .Params.Author }}
-					<h3>
-						<span>{{ i18n "Ditulis oleh" }}</span>
-								{{ .Params.Author }}
-					</h3>
-				{{- end }}
 				{{- if .PrevPage }}
 					<!-- <a class="pagination" href="{{ .PrevPage.RelPermalink }}" class="left arrow">
 						<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" x="0px" y="0px" viewBox="0 0 26 26" enableBackground="new 0 0 26 26" >
