@@ -3,6 +3,7 @@ author = "AMAAN"
 date = 2020-07-01T17:00:00Z
 hero = "/images/amaan-kreatif.png"
 quadrant = []
+tags = ["keluarga"]
 title = "Kenapa mencatat hilangkan penat?"
 type = "blog"
 
