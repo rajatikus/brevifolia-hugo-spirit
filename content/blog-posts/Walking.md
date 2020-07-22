@@ -5,7 +5,6 @@ type: blog
 author: ''
 hero: "/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 quadrant: []
-draft: true
 
 ---
 Then it is that I appreciate the beauty and the glory of architecture, which itself never turns in, but forever stands out and erect, keeping watch over the slumberers.
