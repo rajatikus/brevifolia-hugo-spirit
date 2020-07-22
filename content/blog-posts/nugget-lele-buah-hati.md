@@ -1,8 +1,10 @@
 +++
 author = "AMAAN"
 date = ""
+draft = true
 hero = "/images/lelenug.jpg"
 quadrant = []
+tags = []
 title = "Nugget Lele Buah Hati"
 type = "blog"
 
