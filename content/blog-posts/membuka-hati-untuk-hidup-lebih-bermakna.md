@@ -7,6 +7,8 @@ title = "Membuka Hati Untuk Hidup Lebih Bermakna"
 type = "blog"
 
 +++
+Hi ibu..
+
 ![](/images/2.png)![](/images/3.png)
 
 ![](/images/4.png)
