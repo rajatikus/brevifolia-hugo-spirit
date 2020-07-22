@@ -8,22 +8,22 @@ title = "Cireng Nasi Mudah"
 type = "blog"
 
 +++
-> #### _“Sebagai Ibu rumah tangga, nasi sisa kadang bikin dilema. Dibuang sayang, disimpan sudah ngga bagus._
+> ### “Sebagai Ibu rumah tangga, nasi sisa kadang bikin dilema. Dibuang sayang, disimpan sudah ngga bagus.
 >
-> #### _Nah, yuk coba kita mengolah nasi sisa menjadi makanan yang enak dan bisa menjadi ide usaha rumahan anda juga."_
+> ### Nah, yuk coba kita mengolah nasi sisa menjadi makanan yang enak dan bisa menjadi ide usaha rumahan anda juga."
 
-**Bahan-bahan yang dibutuhkan:** 
+**Bahan-bahan yang dibutuhkan:**
 
 * 1 piring nasi putih (nasi sisa juga bisa digunakan)
-* 10 sendok makan tepung tapioka 
-* 1 gelas belimbing air 
-* 3 batang daun bawang, iris halus 
-* 3 siung bawang putih, haluskan 
-* Merica bubuk secukupnya 
-* Garam secukupnya 
-* Minyak goreng secukupnya 
-* Asam secukupnya 
-* Gula Merah secukupnya 
+* 10 sendok makan tepung tapioka
+* 1 gelas belimbing air
+* 3 batang daun bawang, iris halus
+* 3 siung bawang putih, haluskan
+* Merica bubuk secukupnya
+* Garam secukupnya
+* Minyak goreng secukupnya
+* Asam secukupnya
+* Gula Merah secukupnya
 * Cabai sesuai selera
 
 **Cara Membuat Cireng Nasi**
