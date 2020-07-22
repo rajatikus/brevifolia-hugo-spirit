@@ -1,7 +1,6 @@
 +++
 author = "AMAAN"
 date = 2020-06-30T20:00:00Z
-draft = true
 hero = "/images/amaan-resep-1-2.jpg"
 quadrant = []
 tags = ["Ilmu Usaha"]
