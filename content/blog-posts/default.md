@@ -4,7 +4,7 @@ date = 2020-07-01T17:00:00Z
 hero = "/images/amaan-kreatif.png"
 quadrant = []
 tags = ["keluarga"]
-title = "Kenapa mencatat hilangkan penat?"
+title = "Kenapa mencatat menghilangkan penat?"
 type = "blog"
 
 +++
