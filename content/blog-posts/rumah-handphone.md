@@ -1,6 +1,7 @@
 +++
 author = "AMAAN"
 date = ""
+draft = true
 hero = ""
 quadrant = []
 title = "Rumah Handphone"
