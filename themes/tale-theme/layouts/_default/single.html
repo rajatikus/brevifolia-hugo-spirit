@@ -7,7 +7,7 @@
 			{{ if isset .Params "tags" }}<p>{{ delimit .Params.tags ", " }}</p>{{ end }}
 			{{ partial "single/title.html" . }}
 			{{ partial "single/post-info.html" . }}
-			{{- if .Params.Author }}<h3><span>Ditulis oleh :</span>{{ .Params.Author }}</h3>{{- end }}
+			{{- if .Params.Author }}<h3><span>Penulis :</span>{{ .Params.Author }}</h3>{{- end }}
 		</div>
 		<div class="post__body">{{ .Content }}</div>
 		<div class="post__footer">
