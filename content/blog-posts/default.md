@@ -8,7 +8,7 @@ title = "Kenapa Mencatat Menghilangkan Penat?"
 type = "blog"
 
 +++
-* Kadang kita bingung untuk menghitung berapa modal yang kita keluarkan untuk berjualan
+* Kadang kita bingung untuk menghitung berapa modal yang kita keluarkan untuk berjualan.
 * Ujung-ujung nya pusing karena kita bingung berapa pendapatan usaha kita, apalagi kalau kita tidak pernah pisahkan uang usaha dan uang urusan rumah tangga.
 * Dengan mencatat membuat kita waspada dari mana dan kemana uang kita.
 
