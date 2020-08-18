@@ -2,7 +2,7 @@
 author = "AMAAN"
 date = 2020-06-30T17:00:00Z
 hero = "/images/1.png"
-tags = ["Ilmu Keluarga"]
+tags = ["Belajar Kesehatan dan Keluarga"]
 title = "Membuka Hati Untuk Hidup Lebih Bermakna"
 type = "blog"
 
