@@ -3,6 +3,7 @@ author = "AMAAN"
 date = ""
 hero = "/images/7.jpg"
 quadrant = []
+tags = ["Belajar Usaha"]
 title = "Lampu Sendok Nanas"
 type = "blog"
 
