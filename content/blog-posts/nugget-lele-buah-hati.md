@@ -3,7 +3,7 @@ author = "AMAAN"
 date = ""
 hero = "/images/lelenug.jpg"
 quadrant = []
-tags = []
+tags = ["Belajar Usaha"]
 title = "Nugget Lele Buah Hati"
 type = "blog"
 
