@@ -3,7 +3,7 @@ author = "AMAAN"
 date = 2020-06-30T20:00:00Z
 hero = "/images/amaan-resep-1-2.jpg"
 quadrant = []
-tags = []
+tags = ["Belajar Usaha"]
 title = "Cilok Krispi \"EMAK\""
 type = "blog"
 
