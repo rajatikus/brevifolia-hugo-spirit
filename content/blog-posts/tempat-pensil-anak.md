@@ -3,6 +3,7 @@ author = "AMAAN"
 date = ""
 hero = "/images/hero.jpg"
 quadrant = []
+tags = ["Belajar Usaha"]
 title = "Tempat Pensil Anak"
 type = "blog"
 
