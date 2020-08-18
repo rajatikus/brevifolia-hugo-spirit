@@ -3,6 +3,7 @@ author = "AMAAN"
 date = ""
 hero = "/images/6-2.jpg"
 quadrant = []
+tags = ["Belajar Usaha"]
 title = "Sofa Ban Rotan"
 type = "blog"
 
