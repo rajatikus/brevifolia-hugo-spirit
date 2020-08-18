@@ -3,6 +3,7 @@ author = "AMAAN"
 date = ""
 hero = "/images/amaan-resep-2.jpg"
 quadrant = []
+tags = ["Belajar Usaha"]
 title = "Kripik Sayur Endulita"
 type = "blog"
 
