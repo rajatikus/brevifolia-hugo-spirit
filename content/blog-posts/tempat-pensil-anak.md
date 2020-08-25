@@ -1,6 +1,6 @@
 +++
 author = "AMAAN"
-date = ""
+date = 2020-10-09T17:00:00Z
 hero = "/images/hero.jpg"
 quadrant = []
 tags = ["Belajar Usaha"]
