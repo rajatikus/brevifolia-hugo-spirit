@@ -17,7 +17,5 @@ UNSKINY BOB....
 
 [summercall](https://www.google.com/ "singkong")
 
-
-
-[![alt text kesini](/images/4.png "contih image")](https://www.google.com/)
-
+![alt text kesini](/images/4.png "contih image")
+[![](/images/6.jpg)](https://www.google.com)
