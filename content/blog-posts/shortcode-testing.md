@@ -17,8 +17,8 @@ UNSKINY BOB....
 
 [summercall](https://www.google.com/ "singkong")
 
-{{< myshortcode link="[https://www.microsoft.com]" >}}
+
 
 ![alt text kesini](/images/4.png "contih image")
 
-{{< /myshortcode >}}
+
