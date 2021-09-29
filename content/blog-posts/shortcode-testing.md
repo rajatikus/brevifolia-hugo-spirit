@@ -1,7 +1,7 @@
 +++
 author = ""
 date = 2021-09-27T17:00:00Z
-hero = ""
+hero = "/images/images.png"
 tags = []
 title = "SHORTCODE testing"
 type = "blog"
