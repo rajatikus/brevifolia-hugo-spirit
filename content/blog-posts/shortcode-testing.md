@@ -19,6 +19,6 @@ UNSKINY BOB....
 
 
 
-![alt text kesini](/images/4.png "contih image")
+![alt text kesini](/images/4.png "contih image")({{< relref https://www.google.com/" >}})
 
 
