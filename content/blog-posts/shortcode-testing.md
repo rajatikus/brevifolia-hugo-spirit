@@ -1,18 +1,17 @@
 +++
 author = ""
 date = 2021-09-27T17:00:00Z
-draft = true
 hero = "/images/images.png"
 tags = []
 title = "SHORTCODE testing"
 type = "blog"
 
 +++
-![](/images/wallpp1.png)
+[![](/images/wallpp1.png)](https://ign.com)
 
 Link to other area
 
-![](/images/unnamed.gif)
+[![](/images/unnamed.gif)](www.sketch.com)
 
 Would you mind asdasasdasdas
 
