@@ -1,13 +1,18 @@
 +++
 author = ""
 date = 2021-09-27T17:00:00Z
+draft = true
 hero = "/images/images.png"
 tags = []
 title = "SHORTCODE testing"
 type = "blog"
 
 +++
-![](/images/wallpp1.png)![](/images/unnamed.gif)
+![](/images/wallpp1.png)
+
+Link to other area
+
+![](/images/unnamed.gif)
 
 Would you mind asdasasdasdas
 
