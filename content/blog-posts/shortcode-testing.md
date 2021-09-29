@@ -11,4 +11,4 @@ type = "blog"
 
 Would you mind asdasasdasdas
 
-{{< myshortcode link="www.google.com" >}}
+{{< myshortcode link="https://www.w3schools.com/" >}}
