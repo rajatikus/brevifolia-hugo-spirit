@@ -14,3 +14,5 @@ Would you mind asdasasdasdas
 {{< myshortcode link="https://www.google.com/" >}}
 
 UNSKINY BOB....
+
+[summercall](https://www.google.com/ "singkong")
