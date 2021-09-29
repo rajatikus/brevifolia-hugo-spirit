@@ -17,4 +17,8 @@ UNSKINY BOB....
 
 [summercall](https://www.google.com/ "singkong")
 
+{{< myshortcode link="[https://www.google.com/](https://www.google.com/ "https://www.google.com/")" >}} 
+
 ![alt text kesini](/images/4.png "contih image")
+
+{{< /myshortcode >}}
