@@ -11,7 +11,6 @@ type = "blog"
 
 Would you mind asdasasdasdas
 
-{{< myshortcode link="https://www.google.com/" >}}
 
 UNSKINY BOB....
 
