@@ -10,3 +10,5 @@ type = "blog"
 ![](/images/unnamed.gif)
 
 Would you mind asdasasdasdas
+
+{{< myshortcode >}}
