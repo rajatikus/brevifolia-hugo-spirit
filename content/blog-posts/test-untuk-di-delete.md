@@ -3,7 +3,7 @@ author = "AMAAN"
 date = 2020-09-22T17:00:00Z
 hero = "/images/c50a9a48ec5a215bbf1c32cb3c7e23fa.png"
 tags = []
-title = "Test untuk di Delete"
+title = "Test untuk di Delete AGAIN"
 type = "blog"
 
 +++
