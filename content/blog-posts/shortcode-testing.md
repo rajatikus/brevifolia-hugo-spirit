@@ -7,10 +7,9 @@ title = "SHORTCODE testing"
 type = "blog"
 
 +++
-![](/images/unnamed.gif)
+![](/images/wallpp1.png)![](/images/unnamed.gif)
 
 Would you mind asdasasdasdas
-
 
 UNSKINY BOB....
 
