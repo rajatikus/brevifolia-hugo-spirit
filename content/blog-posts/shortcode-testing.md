@@ -23,6 +23,6 @@ UNSKINY BOB....
 
 
 Ini Judul artikel
-![](/images/c50a9a48ec5a215bbf1c32cb3c7e23fa.png)
+[![](/images/c50a9a48ec5a215bbf1c32cb3c7e23fa.png)](https://www.google.com)
 
 moshi moshi
