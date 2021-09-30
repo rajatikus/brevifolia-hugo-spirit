@@ -11,7 +11,7 @@ type = "blog"
 
 Link to other area
 
-[![](/images/unnamed.gif)](www.sketch.com)
+[![](/images/unnamed.gif)](https://www.sketch.com)
 
 Would you mind asdasasdasdas
 
@@ -20,6 +20,9 @@ UNSKINY BOB....
 [summercall](https://www.google.com/ "singkong")
 
 ![alt text kesini](/images/4.png "contih image")
-[![](/images/6.jpg)](https://www.google.com)
+
+
+Ini Judul artikel
+![](/images/c50a9a48ec5a215bbf1c32cb3c7e23fa.png)
 
 moshi moshi
